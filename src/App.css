@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.flex li{
+    margin-left: 25px;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.svg {
+    margin: 0 auto; /* This centers the SVG horizontally */
+    display: block; /* Ensures that the margin works properly */
+}
