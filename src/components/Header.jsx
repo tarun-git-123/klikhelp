@@ -6,7 +6,7 @@ const Header = () => {
     <>
         <div className='max-w-full grid xl:grid-cols-[30%_auto] md:grid-cols-[20%_auto] grid-cols-[20%_auto]'>
             <div className='flex justify-center xl:w-[100%] md:w-[75%]'>
-                <img src={logo} alt='logo' className='relative z-[1] mt-[11px] bg-white px-[10px] pb-[10px] rounded-xl'/>
+                <img src={logo} alt='logo' className='relative z-[1] mt-[11px] ml-2 xl:ml-0 sm:ml-5 bg-white px-[10px] pb-[10px] rounded-xl'/>
             </div>
             <div className='flex sm:justify-center justify-end'>
                 <ul className='sm:flex h-[16px] mt-8 hidden'>
