@@ -4,12 +4,15 @@
 
 
 .flex li{
-    margin-left: 25px;
     font-weight: 500;
-    font-size: 15px;
 }
 
 .svg {
     margin: 0 auto; /* This centers the SVG horizontally */
     display: block; /* Ensures that the margin works properly */
 }
+
+/* .custom{
+    background-image: url('assets/banner_pic.jpg');
+    height: 650px;
+} */
