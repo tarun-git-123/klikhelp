@@ -16,3 +16,20 @@
     background-image: url('assets/banner_pic.jpg');
     height: 650px;
 } */
+
+/* .tint-166678 {
+    --tw-bg-opacity: 0.2;
+    background-color: #166678;
+} */
+
+.scrolled {
+    height: 80px; /* Adjust the height of the navbar when scrolled */
+}
+
+.small-logo {
+    width: 74px;
+    height: auto;
+    margin-bottom: 36px;
+    margin-top: -2px;
+    margin-right: 166px;
+}

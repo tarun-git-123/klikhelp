@@ -4,6 +4,8 @@ import WhatIsKlikHelp from './WhatIsKlikHelp';
 import Workflow from './Workflow';
 import ApplicationAreas from './ApplicationAreas';
 import Benefits from './Benefits';
+import OurTeam from './OurTeam';
+import ContactUs from './ContactUs';
 const Body = () => {
   return (
     <>
@@ -12,6 +14,8 @@ const Body = () => {
         <Workflow/>
         <ApplicationAreas/>
         <Benefits/>
+        <OurTeam/>
+        <ContactUs/>
     </>
   )
 }

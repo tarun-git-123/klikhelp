@@ -3,7 +3,7 @@ import objects_1 from '../assets/objects_1.png';
 import objects_2 from '../assets/objects_2.png';
 const Benefits = () => {
   return (
-    <div className='max-w-full bg-white h-auto pt-8'>
+    <div className='max-w-full bg-white h-auto py-12'>
         <div className='text-center'>
             <h1 className='font-bold text-2xl my-3'>Benefits of KlikHelp</h1>
             <div>
@@ -17,7 +17,7 @@ const Benefits = () => {
             </div>
         </div>
         <div className='bg-white grid grid-cols-1 sm:grid-cols-2 max-w-full h-auto mx-[10%] rounded-[30px] sm:mt-[45px] mt-[25px]' >
-            <div className='w-full bg-[#2DC0CE] p-10'>
+            <div className='w-full bg-[#c4e9ec] p-10'>
                 <img src={objects_1} alt="object_1"/>
             </div>
             <div className='w-full'>

@@ -2,8 +2,8 @@ import React from 'react'
 
 const WhatIsKlikHelp = () => {
   return (
-    <div className='max-w-full bg-[#E6FAFF] h-auto'>
-        <div className='relative z-[3] max-w-[80%] bg-white h-auto mx-[10%] rounded-[30px] p-5 lg:mt-[-95px] sm:mt-[-55px] mt-[-25px]' >
+    <div className='max-w-full bg-[#E6FAFF] py-8 h-auto'>
+        <div className='relative z-[3] max-w-[80%] bg-white h-auto mx-[10%] rounded-[30px] p-5 lg:mt-[-95px] sm:mt-[-55px] mt-1' >
             <div className='pt-10 text-center'>
                 <h1 className='font-bold text-2xl my-3'>What is KlikHelp ?</h1>
                 <div>
